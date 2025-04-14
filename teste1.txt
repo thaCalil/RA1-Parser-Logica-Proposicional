@@ -1,0 +1,8 @@
+7
+1a
+\neg 1a
+( \neg 2b )
+( \wedge 1a 2b )
+( \vee 1 2b )
+( \wedge 1a )
+( \impl 1a 2b )

@@ -1,0 +1,6 @@
+5
+true
+false
+( \rightarrow 1a 2b )
+( \leftrightarrow 1a )
+( \neg )

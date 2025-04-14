@@ -1,0 +1,11 @@
+10
+true
+false
+1p
+( \neg 2q )
+( \vee 1a false )
+( \wedge 1x 3z )
+( \rightarrow 1a ( \neg 2b ) )
+( \leftrightarrow ( \neg 1b ) false )
+( \neg )
+( \vee 1a )
