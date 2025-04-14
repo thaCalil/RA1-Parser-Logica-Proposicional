@@ -5,4 +5,4 @@
 ( \wedge 1a 2b )
 ( \vee 1 2b )
 ( \wedge 1a )
-( \impl 1a 2b )
+( \rightarrow ( \neg 1a ) 2b )
